@@ -1,8 +1,8 @@
-👋 Hajimemashite, I’m @NezukoCodes!!
+👋 Hajimemashite (the weeb way of saying "Hi!") I’m @NezukoCodes!!
 
 👀 Learning whatever i can about the world of computer science :D
 
-🌱 To do list: Arduino, Jetson Nano, Galaxy Watch App Development, Data Recovery Software
+🌱 Daydream List: Arduino, Jetson Nano, Galaxy Watch App Development, Data Recovery Software
 
 💞️ An aspiring programmer, would love to be mentored :)
 
